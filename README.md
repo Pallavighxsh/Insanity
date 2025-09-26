@@ -22,15 +22,15 @@ You can navigate categories interactively or export selected data directly to a 
 
 🏃 Running the Program  
 
-Open a terminal and navigate to the Desktop (cd ~/Desktop).  
+Step 1 - Open a terminal and navigate to the Desktop (cd ~/Desktop).  
 
-Run the script:  
+Step 2 - Run the script:  
 
-python3 insanity.py  
+  python3 insanity.py  
 
-Enter the path to your Excel file when prompted, e.g.:  
+Step 3 - Enter the path to your Excel file when prompted, e.g.:  
 
-~/Desktop/dummy_categories.xlsx  
+  ~/Desktop/dummy_categories.xlsx  
 
 💻 Commands  
 
