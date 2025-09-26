@@ -2,7 +2,7 @@
 
 Insanity CLI is a Python command-line tool to explore, browse, and export hierarchical data from Excel workbooks.  
 
-It works with multiple sheets, treating each sheet as a main category, and automatically detects columns for Subcategory, Sub-subcategory, Item (Title), and Client (Authors).  
+It works with multiple sheets, treating each sheet as a main category, and automatically detects columns for Subcategory, Sub-subcategory, Item (or column X), and Client (or column Y).  
 
 You can navigate categories interactively or export selected data directly to a new Excel file.  
 
